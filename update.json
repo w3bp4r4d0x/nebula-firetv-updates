@@ -1,0 +1,21 @@
+{
+    "apps":  {
+                 "movy":  {
+                              "versionCode":  2,
+                              "versionName":  "0.2.0",
+                              "apk":  "https://github.com/w3bp4r4d0x/nebula-firetv-updates/releases/download/v0.2.0/movy-0.2.0.apk",
+                              "sha256":  "343ee4d94350589ca000ac67ff1949f4a567c56cfe2b30145ffa695b8cd62549",
+                              "notes":  "Siguiente episodio con cuenta regresiva, inicio personalizado (Nuevos episodios, Top 10, Porque viste...), servidores de respaldo, Trakt.tv y actualizaciones sin la PC."
+                          },
+                 "nebula":  {
+                                "versionCode":  2,
+                                "versionName":  "0.2.0",
+                                "apk":  "https://github.com/w3bp4r4d0x/nebula-firetv-updates/releases/download/v0.2.0/nebula-0.2.0.apk",
+                                "sha256":  "4bc56e80cfe389cc7ab20646ca30b639316b715c2f7c108eef5f90a4edbf012d",
+                                "notes":  "Siguiente episodio con cuenta regresiva, inicio personalizado (Nuevos episodios, Top 10, Porque viste...), servidores de respaldo, Trakt.tv y actualizaciones sin la PC."
+                            }
+             },
+    "domains":  {
+
+                }
+}
