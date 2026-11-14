@@ -1,18 +1,18 @@
 {
     "apps":  {
                  "movy":  {
-                              "versionCode":  2,
-                              "versionName":  "0.2.0",
-                              "apk":  "https://github.com/w3bp4r4d0x/nebula-firetv-updates/releases/download/v0.2.0/movy-0.2.0.apk",
-                              "sha256":  "343ee4d94350589ca000ac67ff1949f4a567c56cfe2b30145ffa695b8cd62549",
-                              "notes":  "Siguiente episodio con cuenta regresiva, inicio personalizado (Nuevos episodios, Top 10, Porque viste...), servidores de respaldo, Trakt.tv y actualizaciones sin la PC."
+                              "versionCode":  3,
+                              "versionName":  "0.2.1",
+                              "apk":  "https://github.com/w3bp4r4d0x/nebula-firetv-updates/releases/download/v0.2.1/movy-0.2.1.apk",
+                              "sha256":  "08fd80dfa564d9642449aa14ea13aaefec40da1429e2e5796eadb4416a7abb3c",
+                              "notes":  "Tras actualizarse, Movy se vuelve a abrir sola. Aviso de permiso mas claro."
                           },
                  "nebula":  {
-                                "versionCode":  2,
-                                "versionName":  "0.2.0",
-                                "apk":  "https://github.com/w3bp4r4d0x/nebula-firetv-updates/releases/download/v0.2.0/nebula-0.2.0.apk",
-                                "sha256":  "4bc56e80cfe389cc7ab20646ca30b639316b715c2f7c108eef5f90a4edbf012d",
-                                "notes":  "Siguiente episodio con cuenta regresiva, inicio personalizado (Nuevos episodios, Top 10, Porque viste...), servidores de respaldo, Trakt.tv y actualizaciones sin la PC."
+                                "versionCode":  3,
+                                "versionName":  "0.2.1",
+                                "apk":  "https://github.com/w3bp4r4d0x/nebula-firetv-updates/releases/download/v0.2.1/nebula-0.2.1.apk",
+                                "sha256":  "11d7e4118dfa8eeda521e9a48d0e71bed79c9794111fd5679ccd2e971ca04944",
+                                "notes":  "Tras actualizarse, Movy se vuelve a abrir sola. Aviso de permiso mas claro."
                             }
              },
     "domains":  {
