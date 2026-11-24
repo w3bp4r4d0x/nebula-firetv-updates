@@ -1,18 +1,18 @@
 {
     "apps":  {
                  "movy":  {
-                              "versionCode":  3,
-                              "versionName":  "0.2.1",
-                              "apk":  "https://github.com/w3bp4r4d0x/nebula-firetv-updates/releases/download/v0.2.1/movy-0.2.1.apk",
-                              "sha256":  "08fd80dfa564d9642449aa14ea13aaefec40da1429e2e5796eadb4416a7abb3c",
-                              "notes":  "Tras actualizarse, Movy se vuelve a abrir sola. Aviso de permiso mas claro."
+                              "versionCode":  4,
+                              "versionName":  "0.2.2",
+                              "apk":  "https://github.com/w3bp4r4d0x/nebula-firetv-updates/releases/download/v0.2.2/movy-0.2.2.apk",
+                              "sha256":  "f672bfadbbde259994d16e4151e88c61cb30a236bc96b713de7a20acbf860ac6",
+                              "notes":  "Movy ya no se pausa cada pocos segundos en el Firestick, y si el video se traba se recarga solo en el mismo minuto. La calidad se mantiene fluida durante todo el video. En las series se ve la fecha de estreno de los próximos episodios."
                           },
                  "nebula":  {
-                                "versionCode":  3,
-                                "versionName":  "0.2.1",
-                                "apk":  "https://github.com/w3bp4r4d0x/nebula-firetv-updates/releases/download/v0.2.1/nebula-0.2.1.apk",
-                                "sha256":  "11d7e4118dfa8eeda521e9a48d0e71bed79c9794111fd5679ccd2e971ca04944",
-                                "notes":  "Tras actualizarse, Movy se vuelve a abrir sola. Aviso de permiso mas claro."
+                                "versionCode":  4,
+                                "versionName":  "0.2.2",
+                                "apk":  "https://github.com/w3bp4r4d0x/nebula-firetv-updates/releases/download/v0.2.2/nebula-0.2.2.apk",
+                                "sha256":  "30d60814425fb388a1e1c2b4e294a9e101e089f86456a273bd294239438dfbc8",
+                                "notes":  "Movy ya no se pausa cada pocos segundos en el Firestick, y si el video se traba se recarga solo en el mismo minuto. La calidad se mantiene fluida durante todo el video. En las series se ve la fecha de estreno de los próximos episodios."
                             }
              },
     "domains":  {
